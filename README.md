@@ -58,3 +58,6 @@
     - Не удовлетворяет — **0 баллов**.
 
 Макет Figma - https://www.figma.com/file/NYQS9wMdCJazJaVfFiMv5W/Tickets-Redux-Task?type=design&node-id=0-1&mode=design&t=EcCPvae3lLhZ523I-0
+
+-В проекте использован фэйковый API => server-json. 
+-Репозиторий на server-json => https://github.com/terrorbladegodlike/json-server-for-search-aviatickets
