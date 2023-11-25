@@ -61,3 +61,14 @@
 
 -В проекте использован фэйковый API => server-json. 
 -Репозиторий на server-json => https://github.com/terrorbladegodlike/json-server-for-search-aviatickets
+
+КАК ЗАПУСТИТЬ ПРОЕКТ?
+1. Клонируем этот репозиторий.
+2. Клонируем этот репозиторий - https://github.com/terrorbladegodlike/json-server-for-search-aviatickets.git
+3. Открываем папку из репозитория "json-server-for-search-aviatickets" в VS Code.
+4. Открываем терминал и пишем следующие команды: 
+    4.1. npm add json-server
+    4.2. npm start и открываем ссылку "http://localhost:4000/tickets"
+5. Не закрывая это окно VS Code, Открываем в новом окне папку из репозитория "Search-For-Flights" и вводим следующие команды:
+    5.1. npm i (npm install)
+    5.2. npm start
